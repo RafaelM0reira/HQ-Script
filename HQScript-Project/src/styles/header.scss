@@ -1,0 +1,38 @@
+@import "../colors/colors.scss";
+.header {
+  background-color: $yellow-color;
+  height: 10vh;
+}
+.logo {
+  width: 3rem;
+  height: 4rem;
+}
+
+.cart {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.img {
+  width: 65rem;
+  height: 35rem;
+  background-position: cover;
+}
+.search-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.search-bar {
+  &:focus {
+    border-color: $gray-color;
+    box-shadow: none;
+  }
+}
+.search-products {
+  z-index: 1;
+}
+.navLink {
+  color: white;
+}
+.nav {
+  background-color: $black-color;
+}

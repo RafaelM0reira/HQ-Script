@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "One piece Vol.1",
+    "description": "A tripulação pirata mais famosa dos quadrinhos finalmente joga sua âncora de novo no Brasil! Com roteiro e arte de Eiichiro Oda.",
+    "fullDescription": "Luffy é um garoto que deseja tornar-se um pirata por causa do Shanks. Durante uma discussão com Shanks por causa de alguns bandidos das montanhas, o garoto acaba comendo a Gomu Gomu no Mi. Mais tarde, porém, os bandidos retornam e Luffy decide comprar briga com eles bem quando os piratas não estão lá para protegê-lo. Shanks salva Luffy, mas acaba perdendo seu braço esquerdo por conta disso e logo deixa seu chapéu com o garoto.",
+    "image": "https://m.media-amazon.com/images/I/71gqYK-DFHL._AC_UF1000,1000_QL80_.jpg",
+    "price": 20,
+    "categories": ["Manga", "One piece", "Shounen"]
+  },
+  {
+    "id": 2,
+    "title": "Batman ano um Vol.1",
+    "description": "David Mazzucchelli produziu esta reinterpretação do batman. Quem é ele e quem ou oque ele se tornou.",
+    "fullDescription": "Em 1986, Frank Miller e David Mazzucchelli produziram esta revolucionária reinterpretação da origem do Batman – sobre quem ele é e como se tornou o que é. Escrito pouco após Batman: o Cavaleiro das trevas, a distópica fábula de Miller sobre os últimos dias do Homem-Morcego, Ano um abriu caminho para uma nova visão de um lendário personagem. Esta edição inclui a história na íntegra, uma introdução pelo escritor Frank Miller e um posfácio ilustrado pelo artista David Mazzucchelli. Inclui também mais de 40 páginas de estudos de personagem, páginas do roteiro original, esboços e fornece mais do que um vislumbre na criação desse clássico contemporâneo.",
+    "image": "https://m.media-amazon.com/images/I/41DLqZ6LY-L._SX328_BO1,204,203,200_.jpg",
+    "price": 10,
+    "categories": ["HQ", "Batman", "DC"]
+  },
+  {
+    "id": 3,
+    "title": "Homem aranha Noir: Crepúsculo na Babilônia",
+    "description": "O ano é 1939. Enquanto o espectro da guerra se assoma, o Homem-Aranha Noir luta o bom combate em casa.",
+    "fullDescription": "O ano é 1939. Enquanto o espectro da guerra se assoma, o Homem-Aranha Noir luta o bom combate em casa. Mas quando uma dama é morta na boate Gata Negra e todas as pistas apontam para o exterior, o Aranha não tem escolha a não ser embarcar para a Europa! Uma vez lá, ele logo se vê arrancado de sua amigável vizinhança e empurrado para a ação internacional!",
+    "image": "https://m.media-amazon.com/images/I/510TxRMQgmL._SX325_BO1,204,203,200_.jpg",
+    "price": 40,
+    "categories": ["HQ", "Homem aranha", "Marvel"]
+  },
+  {
+    "id": 4,
+    "title": "Os Vingadores: A Cruzada das Crianças",
+    "description": "Os Jovens Vingadores retornam em uma saga épica assinada pelos criadores da série Allan Heinberg e Jim Cheung.",
+    "fullDescription": "Os Jovens Vingadores retornam em uma saga épica assinada pelos criadores da série Allan Heinberg e Jim Cheung. Quando os poderes de alteração da realidade de Wiccano começam a rivalizar com os da Feiticeira Escarlate, o jovem herói parte em uma busca por todo o Universo Marvel para encontrá-la. No entanto, isso coloca Wiccano contra os Vingadores e os Jovens Vingadores. Mas o desejo de Wiccano de resolver o mistério de sua origem será sua salvação ou sua ruína? Com três palavras, a Feiticeira Escarlate mudou o mundo para sempre... e agora com seu retorno, nada mais será o mesmo. Este evento independente da Marvel reintroduz e redefine os Jovens Vingadores e a Feiticeira Escarlate para a Era Heroica e é uma leitura essencial para qualquer fã dos Vingadores.",
+    "image": "https://m.media-amazon.com/images/I/718a9ehm36L._SX598_BO1,204,203,200_.jpg",
+    "price": 60,
+    "categories": ["HQ", "Vingadores", "Marvel"]
+  },
+  {
+    "id": 5,
+    "title": "A Saga da Liga da Justiça Vol.2",
+    "description": "Deuses andando entre nós. A clássica formação da Liga da Justiça é reunida para salvar a humanidade da beira da extinção",
+    "fullDescription": "Deuses andando entre nós. A clássica formação da Liga da Justiça é reunida para salvar a humanidade da beira da extinção: Superman, Batman, Mulher-Maravilha, Flash, Lanterna Verde, Aquaman e Caçador de Marte são a primeira linha de defesa do mundo contra invasores alienígenas e entidades sobrenaturais. Estas são as aventuras que os tornaram lendas vivas. Começa aqui a lendária fase de Grant Morrison à frente da LJA nesta imperdível coleção!",
+    "image": "https://m.media-amazon.com/images/I/71CiaK+Fu9L._SX583_BO1,204,203,200_.jpg",
+    "price": 23.22,
+    "categories": ["HQ", "Liga da justiça", "DC"]
+  },
+  {
+    "id": 6,
+    "title": "Bleach Vol.6",
+    "description": "A outra liberação da Zanpakutou... Seu nome é Bankai! A Bankai aumenta surpreendentemente o poder de combate.",
+    "fullDescription": "A outra liberação da Zanpakutou... Seu nome é Bankai! A Bankai aumenta surpreendentemente o poder de combate. Para usá-la, é necessário lutar contra o espírito materializado de Zangetsu e subjugá-lo, mas Ichigo tem três dias para alcançar tal objetivo. Ele conseguirá dominar a técnica a tempo de salvar Rukia de sua execução?!",
+    "image": "https://m.media-amazon.com/images/I/51ZrLAYDFJL._SX632_BO1,204,203,200_.jpg",
+    "price": 48.88,
+    "categories": ["Manga", "Bleach", "Shounen"]
+  },
+  {
+    "id": 7,
+    "title": "John Constantine, Hellblazer Vol.1",
+    "description": "Um dos mais icônicos personagens da DC - John Constantine, Hellblazer - está de volta em uma nova série exatamente como você lembrava e agora faz parte do Universo de Sandman!",
+    "fullDescription": "Brutalmente recuperado de um emaranhado de futuros apocalípticos e insanidade total, o mago da classe trabalhadora se vê restaurado nas sombras assombradas de Londres, onde gangsters locais estão sendo destruídos por entidades aterrorizantes. Seu chefe quer contratar Constantine para ajudar, e sem um centavo em seu nome - e com uma arma na cara - quem é ele para dizer não? Mas este não é um exorcismo aberto e fechado. Para colocar essa loucura de volta em sua garrafa, John deve trabalhar com o homem que tentou substituí-lo durante seus anos desaparecidos e confrontar um poder impossível com um rosto terrivelmente familiar...",
+    "image": "https://m.media-amazon.com/images/I/51zaxUxfncL._SX329_BO1,204,203,200_.jpg",
+    "price": 58.99,
+    "categories": ["HQ", "Sandman", "DC"]
+  },
+  {
+    "id": 8,
+    "title": "Marvel-Verse: Loki",
+    "description": "Ele é a divindade mais enganosa, agindo como herói, vilão, ou apenas um agente do caos... Seu nome é Loki.",
+    "fullDescription": "Ele é a divindade mais enganosa do Marvel-Verse - seja ele o vilão, o herói ou apenas um agente do caos! Ele é Loki - e essas são algumas de suas histórias lendárias! Em um clássico de todos os tempos, Loki coloca seu irmão Thor contra o Surfista Prateado em uma batalha real cósmica! Em seguida, tenha uma nova visão da fundação dos malditos Vingadores através dos olhos do Deus das Mentiras responsável por reuni-los! Na trilha de um feiticeiro sinistro, Loki encontra um aliado improvável em ninguém menos que o Homem-Aranha - e acaba em dívida com o lançador de teias! E quando o Malandro rejuvenescido virar uma nova página, Kid Loki aprenderá exatamente o que seus companheiros asgardianos pensam dele!",
+    "image": "https://m.media-amazon.com/images/I/51wjg42hFmL._SX331_BO1,204,203,200_.jpg",
+    "price": 38.5,
+    "categories": ["HQ", "Loki", "Marvel"]
+  },
+  {
+    "id": 9,
+    "title": "Invencível: Ultimate collection",
+    "description": "Entre no térreo! Esta enorme capa dura reúne as primeiras 13 edições do super-herói de Robert Kirkman indicado ao Eisner.",
+    "fullDescription": "Entre no térreo! Esta enorme capa dura reúne as primeiras 13 edições do super-herói de Robert Kirkman indicado ao Eisner, juntamente com todos os extras dos três primeiros volumes de brochura comercial e ainda mais! Invincible: The Ultimate Collection, Volume 1 é imperdível para quem quer começar a ler Invincible, mas precisava de uma maneira mais fácil de começar desde o início.",
+    "image": "https://m.media-amazon.com/images/I/51wId0s0s6L._SX334_BO1,204,203,200_.jpg",
+    "price": 205.88,
+    "categories": ["HQ", "Invencível", "UHQ"]
+  },
+  {
+    "id": 10,
+    "title": "Berserk Vol.2",
+    "description": "Guts se depara com o Behelit, uma misteriosa pedra que pode invocar os God Hand, os terríveis senhores da escuridão.",
+    "fullDescription": "Guts se depara com o Behelit, uma misteriosa pedra que pode invocar os God Hand, os terríveis senhores da escuridão, que ele deseja encontrar para completar sua vingança. Mas o Conde, senhor do feudo e tirano que ameaça o povo com a caça aos hereges, também parece ter relação com a pedra e os God Hand. Guts declara guerra ao Conde e invade seu castelo, deixando um rastro de sangue por onde passa.",
+    "image": "https://m.media-amazon.com/images/I/61QWsst-4zL._SX598_BO1,204,203,200_.jpg",
+    "price": 30,
+    "categories": ["Manga", "Berserk", "Seinen"]
+  },
+  {
+    "id": 11,
+    "title": "Vagabond Vol.37",
+    "description": "Viver pela espada e se transformar no demônio... Viver pela terra e na morte voltar a ela...",
+    "fullDescription": "Viver pela espada e se transformar no demônio... Viver pela terra e na morte voltar a ela... Musashi, em sua luta árdua e solitária persegue o ápice da força que durará enquanto durar sua vida. Enquanto que Shusaku, trabalha a terra para preservar a força vital para o mundo futuro. Dois modos de viver, impossíveis de se entenderem de tão antagônicos que são, se cruzam e frutificam uma ligação inesperada através dos cuidados necessários no cultivo das frágeis mudas de arroz.",
+    "image": "https://m.media-amazon.com/images/I/51f8tbRYP1L._SX343_BO1,204,203,200_.jpg",
+    "price": 20,
+    "categories": ["Manga", "Vagabond", "Seinen"]
+  },
+  {
+    "id": 12,
+    "title": "Hunter X Hunter Vol.22",
+    "description": "O processo de seleção das Chimera Ant continua. ",
+    "fullDescription": "O processo de seleção das Chimera Ant continua. Os humanos que não são devorados viram monstros. Enquanto Gon e Killua vão ao encalço de Nefepitou, o Gen-ei-Ryodan começa a enfrentar as formigas. AUTOR: Yoshihiro Togashi No. PÁGINAS: 200",
+    "image": "https://m.media-amazon.com/images/I/61j5y+8u61L._SX343_BO1,204,203,200_.jpg",
+    "price": 13.99,
+    "categories": ["Manga", "Hunter x Hunter", "Shounen"]
+  }
+]

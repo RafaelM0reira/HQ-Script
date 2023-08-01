@@ -1,0 +1,58 @@
+.card-button {
+  background-color: transparent;
+  border-width: 2px;
+  &:hover {
+    transition: 0.4s;
+  }
+}
+.cardImage {
+  width: 25rem;
+  height: 34rem;
+}
+.showCard {
+  width: 80rem;
+}
+@media (max-width: 1400px) {
+  .showCard {
+    width: 70rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .showCard {
+    width: 100%;
+  }
+}
+.cardImage {
+  width: 25rem;
+  height: 34rem;
+}
+@media (max-width: 480px) {
+  .cardImage {
+    width: 19rem;
+    height: 24rem;
+  }
+}
+@media (max-width: 378px) {
+  .cardImage {
+    width: 15rem;
+    height: 20rem;
+    padding: 0;
+  }
+}
+.cardHome {
+  width: 18rem;
+}
+@media (max-width: 378px) {
+  .cardHome {
+    width: 16rem;
+  }
+}
+.cartCardResume {
+  width: 20rem;
+}
+@media (max-width: 1199px) {
+  .cartCardResume {
+    width: 16rem;
+  }
+}
