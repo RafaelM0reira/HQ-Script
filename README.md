@@ -39,6 +39,10 @@ first add a book, you need to create a json file named database and add the arra
 
 after that all the stuff will work so you can search, look for the own book page and add to the shopping cart or remove of the shopping cart.
 
+#### How to clone
+
+if you don't know how to clone repositories first you must copy the cloning link that is in the "<> code" button above the project files, and then click on local and copy the link, right after create a folder and open vscode or the source code editing software you use, with git installed open the terminal and type "git clone link copied". After that enter the HQ-script-project directory, open the terminal and type "npm install" to install the dependencies, with the dependencies installed type "npm run dev" and click on the link where the project is hosted (normally it starts with localhost ), and the project is running.
+
 # PORTUGUÊS
 
 README in english above
@@ -78,3 +82,7 @@ primeiro adicione um livro, crie um arquivo json chamado database e adicione um 
 "categories": ["categoria 1 (manga ou HQ)", "categoria 2 (franquia do livro)", "categoria 3 (gênero ou compania do livro)"]},]
 
 após isso tudo irá funcionar normalmente, então você pode pesquisar pelo livro, ver sua página de detalhes e adicioná-la ou removê-la do carrinho.
+
+#### Como clonar
+
+caso não saiba como clonar repositórios primeiro você deve copiar o link de clonagem que se encontra no botão "<> code" acima dos arquivos do projeto, e depois clique em local e copie o link, logo após crie uma pasta e abra o vscode ou o software de edição de código fonte que você usa,com o git instalado abra o terminal e digite "git clone link copiado". Após isso entre no diretório HQ-script-project, abra o terminal e digite "npm install" para instalar as dependências, com as dependências instaladas digite "npm run dev" e clique no link em que o projeto está hospedado(normalmente começa com localhost), e pronto projeto rodando.
