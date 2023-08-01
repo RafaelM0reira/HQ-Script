@@ -77,4 +77,4 @@ primeiro adicione um livro, crie um arquivo json chamado database e adicione um 
 "price": "preço do livro",
 "categories": ["categoria 1 (manga ou HQ)", "categoria 2 (franquia do livro)", "categoria 3 (gênero ou compania do livro)"]},]
 
-após isso tudo irá funcionar normalmente, então você pdoe pesquisar pelo livro, ver sua página de detalhes e adicioná-la ou removê-la do carrinho.
+após isso tudo irá funcionar normalmente, então você pode pesquisar pelo livro, ver sua página de detalhes e adicioná-la ou removê-la do carrinho.
